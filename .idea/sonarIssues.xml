@@ -3,32 +3,12 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/.gitignore">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/README.md">
-          <value>
-            <set />
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/android/myapplication/MainActivity.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/android/myapplication/MessageEvent.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/android/myapplication/SecondActivity.kt">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/android/myapplication/TestProtected.kt">
           <value>
             <set />
           </value>
@@ -48,42 +28,42 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/build.gradle">
+        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/java/com/hellobike/evehicle/business/main/usevehicle/EVehicleUseMainFragment.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/java/com/hellobike/evehicle/business/garage/EVehicleGarageActivity.java">
+        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/java/com/hellobike/evehicle/business/main/usevehicle/fragment/EVehicleLockedFragment.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/java/com/hellobike/evehicle/business/returnstore/EVehicleReturnActivity.java">
+        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/java/com/hellobike/evehicle/business/main/usevehicle/fragment/EVehicleWaitRecycleFragment.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../android-advanced-light/chapter_7/MoonEventBus3.0/app/build.gradle">
+        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/res/color/selector_modify_phone_text_color.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../android-advanced-light/chapter_7/MoonEventBus3.0/app/src/main/java/com/example/liuwangshu/mooneventbus/MainActivity.java">
+        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/res/drawable/selector_bg_modify_phone.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../android-advanced-light/chapter_7/MoonEventBus3.0/build.gradle">
+        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/res/layout/evehicle_fragment_locked.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../android-advanced-light/chapter_7/MoonEventBus3.0/gradle/wrapper/gradle-wrapper.properties">
+        <entry key="$PROJECT_DIR$/../HellobikeEvehicleBusinessApp/business-evehiclebundle/src/main/res/layout/evehicle_fragment_wait_recycle.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="/fragment.java">
+        <entry key="$PROJECT_DIR$/../flutter_app/lib/main.dart">
           <value>
             <set />
           </value>
